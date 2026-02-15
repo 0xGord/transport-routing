@@ -1,0 +1,37 @@
+{
+  "file_name": "E-n13-k4.vrp",
+  "set_name": "E",
+  "dimension": 13,
+  "optimal_cost": 247,
+  "best_cost": 247.0,
+  "deviation": 0.0,
+  "execution_time": 14.352887868881226,
+  "best_routes": [
+    0,
+    2,
+    7,
+    4,
+    11,
+    0,
+    3,
+    5,
+    8,
+    0,
+    6,
+    10,
+    12,
+    9,
+    0,
+    1,
+    0
+  ],
+  "timestamp": "2026-02-15T16:31:57.201903",
+  "parameters": {
+    "num_ants": 50,
+    "num_iterations": 500,
+    "alpha": 1.0,
+    "beta": 2.0,
+    "evaporation_rate": 0.5,
+    "initial_pheromone": 1.0
+  }
+}
